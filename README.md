@@ -9,7 +9,7 @@
   <img align="center" alt="Henrique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Henrique" src="https://i.picasion.com/pic91/d310801fae775658ff4f69d765a81276.gif">
+  <img align="right" alt="Henrique" src="https://i.picasion.com/pic91/e25d2dff77315482c9699be03a7c5f93.gif">
 </div>
    
   ##
