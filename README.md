@@ -1,5 +1,5 @@
 ### Oii!, meu nome é Henrique Fernandes👋
-- Atualmente sou estudante de Front-end 📚
+- Atualmente Front-end jr. 📚
 - Tenho 22 anos ✨
 - Moro em Recife/PE 🌍
 #### Fique avontade 👻
