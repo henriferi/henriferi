@@ -2,7 +2,6 @@
 - Atualmente Front-end jr. 📚
 - Tenho 22 anos ✨
 - Moro em Recife/PE 🌍
-- Cursando Análise e desenvolvimento de sistemas.
 #### Fique avontade 👻
  <div>
   <a href="https://github.com/henriferi">
