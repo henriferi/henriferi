@@ -1,8 +1,8 @@
 ### Oii!, meu nome é Henrique Fernandes👋
-- Atualmente Front-end jr. 📚
-- Tenho 23 anos ✨
+- Sou Desenvolvedor. 📚
+- Tenho 24 anos ✨
 - Moro em Recife/PE 🌍
-#### Fique avontade 👻
+####
  <div>
   <a href="https://github.com/henriferi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriferi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
