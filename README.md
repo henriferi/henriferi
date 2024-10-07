@@ -9,7 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriferi&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="right" alt="Henrique" src="https://i.picasion.com/pic91/e25d2dff77315482c9699be03a7c5f93.gif">
 </div>   
  
   ##
