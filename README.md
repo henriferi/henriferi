@@ -1,5 +1,5 @@
 ### Oii!, meu nome é Henrique Fernandes👋
-- Sou Desenvolvedor. 📚
+- Curso Análise e desenvolvimento de sistemas. 📚
 - Tenho 25 anos ✨
 - Moro em Recife/PE 🌍
 ####
