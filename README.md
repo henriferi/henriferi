@@ -1,5 +1,7 @@
 ### Oii!, meu nome é Henrique Fernandes👋
-- Curso Análise e desenvolvimento de sistemas. 📚
+- Desenvolvedor de Software.
+- Automações com IA.
+- Formado em Análise e desenvolvimento de sistemas. 📚
 - Tenho 25 anos ✨
 - Moro em Recife/PE 🌍
 ####
