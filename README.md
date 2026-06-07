@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Olá, eu sou Henrique Fernandes
+# Henrique Fernandes
 
-### 🚀 Desenvolvedor Full Stack | IA & Automação | Cloud
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Automações+com+IA;React+%7C+Angular+%7C+Node.js;Laravel+%7C+Docker+%7C+AWS" />
+### Desenvolvedor Full Stack • IA e Automação • AWS • Docker
 
 </div>
 
@@ -12,13 +10,16 @@
 
 ## 👨‍💻 Sobre mim
 
+Desenvolvedor de Software com experiência no desenvolvimento de aplicações web e mobile, atuando em todo o ciclo de desenvolvimento, desde a modelagem do banco de dados até a publicação em produção.
+
+Trabalho com desenvolvimento frontend e backend utilizando tecnologias modernas, criação de APIs, integrações com serviços em nuvem, automações com inteligência artificial e arquitetura de aplicações escaláveis.
+
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 🚀 Desenvolvedor Full Stack
-- 🤖 Criação de automações com IA e agentes inteligentes
-- ☁️ Arquitetura de Software e AWS
-- 🐳 Utilizando Docker em projetos e ambientes de desenvolvimento
 - 📍 Recife - Pernambuco, Brasil
-- ✨ 27 anos
+- 🚀 Desenvolvedor Full Stack
+- 🤖 Automações com IA e Agentes Inteligentes
+- ☁️ AWS e Arquitetura de Software
+- 🐳 Docker e Containers
 
 ---
 
@@ -26,84 +27,77 @@
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic"/>
+</p>
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony"/>
+</p>
 
 ### Banco de Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
+</p>
 
 ### Cloud & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriferi&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriferi&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=henriferi&theme=tokyonight" />
-
-</div>
-
----
-
-## 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/henriferi/henriferi/output/github-contribution-grid-snake-dark.svg" />
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions"/>
 </p>
+
+### Inteligência Artificial & Automação
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+</p>
+
+---
+
+## 💼 Principais Áreas de Atuação
+
+- Desenvolvimento de aplicações web e mobile
+- APIs REST e integrações de sistemas
+- Arquitetura de Software
+- AWS e serviços cloud
+- Docker e conteinerização
+- Inteligência Artificial Generativa
+- Automações de processos
+- Integrações com APIs de terceiros
+- Bancos de dados relacionais
 
 ---
 
 ## 📫 Contato
 
-<div align="center">
+<p align="left">
+  <a href="mailto:henriquefernandes.gouveia@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:henriquefernandes.gouveia@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/henrique-fernandes-a29057214/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/henrique-fernandes-a29057214/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/henrique_fernandexx/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
+  <a href="https://www.instagram.com/henrique_fernandexx/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-### 🚀 Atualmente focado em
-
-Arquitetura de Software • AWS • Docker • CI/CD • IA Generativa • Automações
-
-</div>
+### "Tecnologia é resolver problemas reais com soluções simples, escaláveis e bem construídas."
