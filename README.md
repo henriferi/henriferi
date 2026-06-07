@@ -98,6 +98,3 @@ Trabalho com desenvolvimento frontend e backend utilizando tecnologias modernas,
   </a>
 </p>
 
----
-
-### "Tecnologia é resolver problemas reais com soluções simples, escaláveis e bem construídas."
